@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="file-encryptor/file-encryptor.vcxproj" />
+  <Project Path="file-encryptor/file-encryptor.vcxproj" Id="f75c5ccd-5f04-409e-b22d-3f690333ffe7" />
 </Solution>
